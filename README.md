@@ -43,10 +43,16 @@ Bank DApp เป็นแอปพลิเคชันธนาคารที�
 
 ## โครงสร้างโปรเจค
 
-- `index.html` - หน้าเว็บหลัก
-- `script.js` - JavaScript สำหรับการทำงานของแอปพลิเคชัน
-- `bankABI.js` - ไฟล์ ABI ของ Smart Contract
-- `Bank.sol` - โค้ด Smart Contract
+```
+.
+└── Trainify
+    ├── contracts
+    │   ├── Bank.sol
+    │   └── bankABI.js
+    ├── index.html
+    ├── README.md
+    └── script.js
+```
 
 ## ผู้พัฒนา
 
