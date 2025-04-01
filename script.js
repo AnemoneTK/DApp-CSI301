@@ -1,5 +1,5 @@
 // นำเข้า ABI จากไฟล์แยก
-import bankABI from "/bankABI.js";
+import bankABI from "/contracts/bankABI.js";
 
 // ที่อยู่ของ Contract สำหรับ BankWithHistory
 // ต้องเปลี่ยนเป็นที่อยู่ของ Contract ที่เพิ่ง deploy
